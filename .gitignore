@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
